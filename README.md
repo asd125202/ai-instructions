@@ -9,8 +9,7 @@
 
 *(Edit this section to give Copilot real-time guidance)*
 
-if you see this message, it means it works!
-
+Did you update the procudure on how you enter this waiting status into the context file? so next time i do not need explain this much and can just copy paste that file
 ---
 
 _Last updated by: (you)_
