@@ -14,7 +14,7 @@ This repo solves that: edit README.md on GitHub, and Copilot polls it mid-task.
 2. **Start your task** - Copilot will begin working and poll README.md every ~30s.
 3. **Send real-time instructions** by editing README.md at:
    https://github.com/asd125202/ai-instructions/edit/main/README.md
-4. Copilot **stops polling** after ~3 minutes with no new changes.
+4. Copilot **stops polling** after ~5 minutes with no new changes.
 
 ---
 
