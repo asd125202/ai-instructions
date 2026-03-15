@@ -9,11 +9,7 @@
 
 *(Edit this section to give Copilot real-time guidance)*
 
-<!-- Example:
-- Stop what you're doing and focus on X instead
-- Also handle edge case Y
-- Pause and wait for further input
--->
+if you see this message, it means it works!
 
 ---
 
